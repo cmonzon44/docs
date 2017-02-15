@@ -266,8 +266,7 @@ Modificando el template de Articles
 
 El template add de Article debería verse similar a esto:: 
 
-.. code-block:: php
-
+    
     <!-- File: src/Template/Articles/add.ctp -->
 
     <h1>Add Article</h1>
